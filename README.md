@@ -8,10 +8,17 @@ These are some things that I enjoy:
 - Watching anime
 - travelling
 
+🎵 📺 ✈️
+
+
 My top favourite travel destinations that I have been to:
 1. Japan
 2. New Zealand
 3. France
+
+
+🗾 🇳🇿 🇫🇷
+
 
 
 

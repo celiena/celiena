@@ -1,12 +1,12 @@
 # Hi, I'm Celiena. 👋
 ## Welcome to my page. 😄
 
-I am a student at the U of A, and I am taking **Intro to Web Development** as an elective to a UX/UI certification. I am *very* new to all of this, but looking forward to all of the things that I will be learning. This is my second time attending the U of A, with my first time being in Political Science.
+I am a student at the U of A, and I am taking **Intro to Web Development** as an elective to a **UX/UI** certification. I am *very* new to all of this, but looking forward to all of the things that I will be learning. This is my second time attending the U of A, with my first time being in Political Science.
 
 These are some things that I enjoy:
 - Listening to music
 - Watching anime
-- travelling
+- Travelling
 
 🎵 📺 ✈️
 
